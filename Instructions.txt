@@ -1,0 +1,24 @@
+1. Refer the github URL https://github.com/GersonRosales/Record-Audios-and-Videos-with-getUserMedia
+
+2. Only two files have been used for this example from the github.
+	example_3.html(audio.html), Mp3LameEncoder.js.
+
+3. Extract the given zip file (audioTest.zip)
+
+4. Install node if not installed. (https://nodejs.org/en/download/)
+
+4. run the terminal with the command "node audio.js"
+
+5. Now the node server running with the port 3000
+
+6. Hit the URL "https://localhost:3000/" for web browser
+
+3. For Mobile:
+
+	i. Connect mobile with local server (using wifi hotspot)
+	ii. know ur local host ip address
+		FYI guid to find ip address on windows and Mac,
+		https://www.groovypost.com/howto/microsoft/windows-7/find-your-local-ip-address-windows-7-cmd/
+		https://blog.pcrisk.com/mac/12377-how-to-find-out-your-ip-address-on-mac
+	iii. Hit the URL on mobile browser
+		https://<localhost_ipaddress>:3000/
